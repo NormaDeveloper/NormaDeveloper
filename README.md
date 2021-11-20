@@ -1,7 +1,4 @@
 
-![](https://i.imgur.com/k7c83kk.jpg)
-
-
 ## Hi, I'm Norma 👋
 
 
@@ -20,7 +17,7 @@ And if I come across a problem, I always look for a solution and… 🚀 Keep co
  [![](https://i.imgur.com/NjpqOjr.jpg)](https://www.instagram.com/normarivas__/)                [![](https://i.imgur.com/NfHqHjX.png)](https://www.linkedin.com/in/normarivas)                [![](https://i.imgur.com/yHHpcTR.png)](https://twitter.com/NormaRivas_)
      
 
-
+![](https://i.imgur.com/k7c83kk.jpg)
 
 
 

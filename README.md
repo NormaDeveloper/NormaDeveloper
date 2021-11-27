@@ -6,7 +6,7 @@
 
 <img align="center" width="1200" height="1100" src="https://i.imgur.com/xrfi68j.gif">
 
-
+ 
 
 
 
@@ -28,6 +28,13 @@
 
 
 
+---
+### Languages and Tools
+
+
+ <img align="center" width="80" height="80" src="https://i.imgur.com/cYleJs5.png">  <img align="center" width="80" height="80" src="https://i.imgur.com/ZcRp2vR.png">  <img align="center" width="80" height="80" src="https://i.imgur.com/MC0RQSX.png">       <img align="center" width="80" height="80" src="https://i.imgur.com/DUSAfBX.png">  <img align="center" width="60" height="80" src="https://i.imgur.com/j9ffw61.png">      <img align="center" width="80" height="80" src="https://i.imgur.com/mLuUUhV.png">  <img align="center" width="80" height="70" src="https://i.imgur.com/kWq3QjI.png">    
+
+
 
 ---
 
@@ -35,13 +42,11 @@
 
 ### Contact me!
 #### 
-#### I love connecting with different people so if you want to say hi, I'll be happy to be in touch! 
+#### I love connecting with different people so if you want to say hi, I'll be happy to be in touch!  ⬇️
 
- [![](https://i.imgur.com/5Y7Ks59.png)](https://www.instagram.com/normarivas__/)                [![](https://i.imgur.com/RxMHei3.png)](https://www.linkedin.com/in/normarivas)                [![](https://i.imgur.com/C85yS6z.png)](https://twitter.com/NormaRivas_)
+
  
+
+[![](https://i.imgur.com/5Y7Ks59.png)](https://www.instagram.com/normarivas__/)  [![](https://i.imgur.com/RxMHei3.png)](https://www.linkedin.com/in/normarivas)         [![](https://i.imgur.com/C85yS6z.png)](https://twitter.com/NormaRivas_)  
  
-
-
-     
-     
 

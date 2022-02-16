@@ -4,10 +4,9 @@
  
  
 
-<img align="center" width="1200" height="1100" src="https://i.imgur.com/xrfi68j.gif">
 
- 
 
+![Norma_Rivas](https://user-images.githubusercontent.com/93437541/154238557-b38af200-895b-4179-92fa-aa6b01b254aa.gif)
 
 
 ## Hey, I'm Norma 👋

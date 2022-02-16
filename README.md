@@ -21,9 +21,10 @@
 #### 
 #### Committed to both individual and teamwork, for me, everything is a good chance to grow up personally and professionally.
 #### 
-#### I am currently a student of the front end development bootcamp at Adalab.
+#### Currently I have finished studying the front end development bootcamp at Adalab and I am open to work.
 #### 
 #### And if I come across a problem, I always look for a solution and… Keep coding! 🚀
+
 
 
 

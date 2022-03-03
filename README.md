@@ -34,7 +34,7 @@
  
 
 ---
-### Languages and Tools
+### Tech stack and Tools
 
 
 

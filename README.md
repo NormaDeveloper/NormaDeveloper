@@ -25,6 +25,12 @@
 #### 
 #### And if I come across a problem, I always look for a solution and… Keep coding! 🚀
 
+---
+### The repositories you will find here are made with:
+#### 1. Attention to detail 🔎
+#### 2. Clean and tidy code 🧹
+#### 3. Fun 🎉 
+ 
 
 
 

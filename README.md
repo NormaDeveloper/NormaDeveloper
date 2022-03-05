@@ -32,6 +32,18 @@
 #### 2. Clean and tidy code 🧹
 #### 3. Fun 🎉 
 
+---
+
+### Team projects
+ - [The Godmothers. Website with the social information of all team members. Layout: HTML, CSS, SASS](https://github.com/NormaDeveloper/Godmothers-Team-Project-HTML-CSS-SASS)
+ - [Awesome Profile Cards, personalized business card. Developed with JAVASCRIPT](https://github.com/NormaDeveloper/Awesome-profile-cards-Team-Project-JS)
+ - [Awesome Profile Cards, personalized business card. Inherited code. Developed with REACT](https://github.com/NormaDeveloper/Awesome-profile-cards-Team-Project-React)
+ - [Awesome Profile Cards, personalized business card. Inherited code. Developed with EXPRESS](https://github.com/NormaDeveloper/Awesome-profile-cards-Team-Project-Express)
+### Individual projects
+
+ - [Website with mobile-first responsive design. Layout: HTML, CSS, SASS](https://github.com/NormaDeveloper/Responsive-Website-HTML-CSS-SASS)
+  - [Anime series search engine web application developed with JavaScript. Responsive design.](https://github.com/NormaDeveloper/Anime-Search-Engine-JS)
+   - [Harry Potter character search engine web application developed with React. Responsive design.](https://github.com/NormaDeveloper/HarryPotter-Character-Search-Engine-React) 
 
 ---
 ### Tech stack and Tools

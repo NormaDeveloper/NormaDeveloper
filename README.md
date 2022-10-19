@@ -4,7 +4,7 @@
  
  
 
-<img align="center" width="1200"  src="https://user-images.githubusercontent.com/93437541/154238557-b38af200-895b-4179-92fa-aa6b01b254aa.gif">
+<img align="center" width="1500"  src="https://user-images.githubusercontent.com/93437541/154238557-b38af200-895b-4179-92fa-aa6b01b254aa.gif">
 
  
 
@@ -22,9 +22,15 @@
 #### 
 #### Committed to both individual and teamwork, for me, everything is a good chance to grow up personally and professionally.
 #### 
-#### Currently I have finished studying the front end development bootcamp at Adalab and I am open to work.
+#### Currently I am working as a Frontend Developer at IN-MANAS, an 🇦🇹 Austrian software company where I use VUE and VUEX and I am with an excellent international team both professionally and humanly. A 100% remote job in 🇺🇸 English.
 #### 
 #### And if I come across a problem, I always look for a solution and… Keep coding! 🚀
+
+---
+
+### IN-MANAS Application
+Take a look at the 🇦🇹 IN-MANAS web ➡️ [<img align="center"  width="150" height="60" src="https://user-images.githubusercontent.com/93437541/196683871-95d8ce3f-813f-42d0-931b-da200cd0d938.jpeg"> 
+](https://www.in-manas.com/landingpage/) 
 
 ---
 ### The projects you will find here are developed with:

@@ -50,6 +50,7 @@ Take a look at the 🇦🇹 IN-MANAS web ➡️ [<img align="center"  width="150
  - [Website with mobile-first responsive design. Layout: HTML, CSS, SASS](https://github.com/NormaDeveloper/Responsive-Website-HTML-CSS-SASS)
   - [Anime series search engine web application developed with JavaScript. Responsive design.](https://github.com/NormaDeveloper/Anime-Search-Engine-JS)
    - [Harry Potter character search engine web application developed with React. Responsive design.](https://github.com/NormaDeveloper/HarryPotter-Character-Search-Engine-React) 
+   - [Mood Diary web application developed with React, Node.js and SQLite. Responsive design.](https://gitlab.com/In-Manas2/Mood-Diary) 🚀 
 
 ---
 ### Tech stack and Tools
